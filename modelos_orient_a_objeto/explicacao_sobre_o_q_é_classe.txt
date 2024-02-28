@@ -1,0 +1,34 @@
+# classe
+
+
+#objeto
+uma classe dita como vai ser um objeto, por ex um filme(instancia) que eu cadastrar é um objeto do tipo class filme 
+assim como ex: nome = 'Marta silva' tmb é um objeto
+
+#instancia
+filme = filme() #estou criando uma instancia da classe filme, cada um dos filmes que eu ter dentro
+#do meu sistema da netflix vai ser uma instancia, é um elemento que pertence a classe filme, tendo todas
+as caracteristicas que a classe tem, por isso consigo fazer, apos o filme = filme() fazer por ex filme.play 
+filme.duracao 
+
+
+filmes:
+series:
+usuarios:
+
+class filme():
+        tem:
+    atributos
+    metodos
+
+
+class Pessoa:
+    nome 
+
+uma instancia de uma classe
+ |
+ |
+\ /
+ v
+pessoa1 = Pessoa() <- classe
+pessoa1.nome = "marco" <- definindo um atributo de uma instancia
